@@ -17,8 +17,8 @@
   🔠 Eot:  
 # F
 # G
-  🍭 Gestalt:
-  🔤 Glyphs:  
+  🍭 Gestalt:  
+  🪶 Glyphs:  
   🔄 Grep:
 # H
   🌀 Hybridation:  
