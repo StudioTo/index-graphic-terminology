@@ -6,10 +6,10 @@
   🔗 Assemblage:  
 # B
   Bézier
-  🌅 Bmp:
+  🌅 Bmp:  
 # C
-  ✅ Cheklist:
-  Cahier:
+  ✅ Cheklist:  
+  📑 Cahier:  
 # D
   💻 Desktop:  
   ✍🏻 Ductus:  
@@ -18,46 +18,46 @@
 # F
 # G
   🍭 Gestalt:
-  Glyphs:  
+  🔤 Glyphs:  
   🔄 Grep:
 # H
-  🌀 Hybridation
+  🌀 Hybridation:  
 # I
   InDesign:  
 # J
 # K
-  🗂️ Kupferschmid:
+  🗂️ Kupferschmid:  
 # L
-  📑 License:
-  📚 Livre des Polices:
+  📑 License:  
+  📚 Livre des Polices:  
 # M
   🔎 Macro-Typo:  
-  🔍 Micro-Typo:
-  🔮 Moodboard:
+  🔍 Micro-Typo:  
+  🔮 Moodboard:  
 # N
-  🎨 Nuances:
+  🎨 Nuances:  
 # O
   🤲🏻 Open Source:  
-  🔠 Otf:
+  🔠 Otf:  
 # P
-  📝 Pangramme:
-  📄 Pdf:
+  📝 Pangramme:  
+  📄 Pdf:  
 # Q
 # R
 # S
   🔠 Svg:
 # T
   🔠 TTF:  
-  🗂️ Thibaudeau:
-  Trame:
+  🗂️ Thibaudeau:  
+  ➿ Trame:
 # U
 # V
   🔠 Variable:  
   ⚫️ Vectorisation:  
-  🗂️ Vox:
+  🗂️ Vox:  
 # W
   🌐 Webfont:  
-  🔠 Woff, Woff2:
+  🔠 Woff, Woff2:  
 # X
 # Y
 # Z
