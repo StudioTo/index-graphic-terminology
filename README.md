@@ -5,7 +5,7 @@
   📁 Adobe Font Folder:  
   🔗 Assemblage:  
 # B
-  Bézier
+  📈 Bézier:  
   🌅 Bmp:  
 # C
   ✅ Cheklist:  
